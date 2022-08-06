@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+}
+.dope {
+  fill: rgb(118, 118, 247);
+  stroke: black;
+  stroke-width: 1.5px;
+}
+.no-dope {
+  fill: orange;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+#tooltip {
+  position: absolute;
+  background-color: rgb(142, 197, 211);
+  border-radius: 5px;
+}
